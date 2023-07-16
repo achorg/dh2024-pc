@@ -1,0 +1,75 @@
+Abstract Deadline: Nov. 15, 2009
+
+Proposals must be submitted electronically using the system which will be available at the conference web site from Oct. 1st. Presentations may be any of the following:
+
+    Single papers (abstract max of 1500 words)
+    Multiple paper sessions (overview max of 500 words)
+    Posters (abstract max of 1500 words)
+
+Call
+for
+Papers
+
+The International Programme Committee invites submissions of abstracts of 1500 words on any aspect of humanities computing, broadly understood to encompass the common ground between information technology and problems in humanities research and teaching. We welcome submissions in all areas of the humanities, particularly interdisciplinary work. We especially encourage submissions on the current state of the art in humanities computing, and on recent developments.
+
+Suitable subjects for proposals include, for example,
+
+    text analysis, corpora, language processing, language learning
+    IT in librarianship and documentation
+    computer-based research in cultural and historical studies
+    computing applications for the arts, architecture and music
+    research issues such as: information design and modelling; the cultural impact of the new media, scientific visualization.
+    the role of digital humanities in academic curricula 
+
+The special theme of the 2010 conference is cultural expression old and new.
+
+The range of topics covered is reflected in the journals of the associations: Literary and Linguistic Computing (LLC), Oxford University Press, and the Digital Humanities Quarterly, http://www.digitalhumanities.org/dhq/
+
+The deadline for submitting paper, session and poster proposals to the Programme Committee is Nov. 15th, 2009. All submissions will be refereed. Presenters will be notified of acceptance February 24, 2010.
+
+To submit a proposal, please use our ConfTool system: http://www.digitalhumanities.org/conftool.
+
+Anyone who has previously used the ConfTool system to submit proposals or reviews or to register for a Digital Humanities conference should use their existing account rather than setting up a new one.
+
+If anyone has forgotten their user name and/or password, please contact dh2010 [at] digitalhumanities.org or dh2010 [at] kcl.ac.uk.
+
+See below for full details on submitting proposals.
+
+Proposals for (non-refereed, or vendor) demos and for pre-conference tutorials and workshops should be made to the local conference organizer as early as possible.
+Types of Proposals
+
+Proposals to the Programme Committee may be of three types: (1) papers, (2) poster presentations and/or software demonstrations, and (3) sessions (either three-paper or panel sessions). The type of submission must be specified in the proposal.
+
+Papers and posters may be given in English, French, German, Italian or Spanish.
+1) Papers
+
+Proposals for papers (750-1500 words) should describe original, unpublished work: preferably completed research with substantial results, but also the development of significant new methodologies, or rigorous theoretical or critical discussions. Individual papers have 20 min. for presentation and 10 for questions.
+
+Proposals concerning new computing methodologies should show how the methodologies are applied to humanities research, and should critically assess the application. Those concerning a particular application should compare earlier traditional and computational approaches and should also assess the new methodologies. References are naturally required. Those describing the creation or use of digital resources should follow these guidelines as far as possible.
+2) Poster Presentations and Software Demonstrations
+
+Poster sessions showcase some of the most important and innovative work being done in humanities computing. Poster presentations may include technology and project demonstrations. Hence the term poster/demo to refer to different possible combinations of printed and computer based presentations. There should be no difference in quality between poster/demo presentations and papers, and the format for proposals is the same for both. The same academic standards also apply, but posters/demos may be more suitable way for late-breaking work, or work in progress. Both will be submitted to the same refereeing process. The choice between the two modes of presentation (poster/demo or paper) should depend on the most effective and informative way of communicating the scientific content of the proposal.
+
+Poster presentations are less formal and more interactive than talks. Poster presenters can present their work and exchange ideas one-on-one and in detail with those most deeply interested. Presenters will have about two square meters of board space for display and may also wish to provide handouts. Posters remain on display throughout the conference, and are the sole focus of separate dedicated poster sessions. Additional times may be available for software or project demonstrations.
+
+As an acknowledgement of the special contribution of the posters to the conference, the Programme Committee will award a prize for the best poster.
+3) Sessions
+
+Sessions (90 minutes) take the form of either:
+
+Three papers. The proposal should include a 500-word statement describing the session topic, include abstracts of 750-1500 words for each paper, and indicate that each author is willing to participate in the session. All speakers are required to register for the conference and to participate in the session. Focused sessions should have added value when compared to the set of the individual papers.
+
+or
+
+A panel of four to six speakers. The proposal is an abstract of 750-1500 words describing the panel topic, how discussion will be organized, the names and affiliations of all the speakers, and an indication that each speaker is willing to participate in the session. All speakers are required to register for the conference and to participate in the session.
+International Programme Committee
+
+    Elisabeth Burr (ALLC)
+    Richard Cunningham (SDH-SEMI)
+    Jan-Christoph Meister (ALLC)
+    Elli Mylonas (ACH)
+    Brent Nelson (SDH-SEMI)
+    John Nerbonne (ALLC and Chair)
+    Bethany Nowviskie (ACH)
+    Jan Rybicki (ALLC)
+    John Walsh (ACH)

@@ -1,0 +1,64 @@
+Call for Papers
+
+Alliance of Digital Humanities Organizations
+Digital Humanities 2009
+Call for Papers - The Call in Other Languages
+
+Abstract Deadline: Extended to November 14, 2008 (Midnight GMT)
+Presenters will be notified by February 13, 2009
+All proposals should be submitted by uploading them to the ConfTool website.
+
+Presentations can include:
+
+    Single papers
+    Multiple paper sessions
+    Posters
+
+Call for Papers Announcement
+I. General
+The international Programme Committee invites submissions of abstracts of between 750 and 1500 words on any aspect of digital humanities, broadly defined to encompass the common ground between information technology and problems in humanities research and teaching. As always, we welcome submissions in any area of the humanities, particularly interdisciplinary work. We especially encourage submissions on the current state of the art in digital humanities, and on recent new developments and expected future developments in the field.
+
+Suitable subjects for proposals include, for example,
+
+    text analysis, corpora, corpus linguistics, language processing, language learning
+    libraries, archives and the creation, delivery, management and preservation of humanities digital resources
+    computer-based research and computing applications in all areas of literary, linguistic, cultural, and historical studies, including electronic literature and interdisciplinary aspects of modern scholarship
+    use of computation in such areas as the arts, architecture, music, film, theatre, new media, and other areas reflecting our cultural heritage
+    research issues such as: information design and modelling; the cultural impact of the new media; software studies; Human-Computer interaction
+    the role of digital humanities in academic curricula
+    digital humanities and diversity
+
+The range of topics covered by digital humanities can also be consulted in the journal of the associations: Literary and Linguistic Computing (LLC), Oxford University Press.
+
+The deadline for submitting paper, session and poster proposals to the Programme Committee has been extended to November 14, 2008. All submissions will be refereed. Presenters will be notified of acceptance February 13, 2009. The electronic submission form will be available from October 1st, 2008. See below for full details on submitting proposals.
+
+Proposals for (non-refereed, or vendor) demos and for pre-conference tutorials and workshops should be discussed directly with the local conference organizer as soon as possible.
+
+II. Types of Proposals
+Proposals to the Programme Committee may be of three types: (1) papers, (2) poster presentations and/or software demonstrations, and (3) sessions (either three-paper or panel sessions). The type of submission must be specified in the proposal. Papers and posters may be given in English, French, German, Italian or Spanish. Refer to the links above for more information.
+
+III. Format and Submission of Proposals
+All proposals must be submitted electronically using the on-line submission form, which will be available from October 1st, 2008. Potential participants may wish to look at ADHO’s reviewer guidelines for assessment criteria and DH09’s formatting guidelines.
+
+Anyone who has previously used the ConfTool system to submit proposals or reviews should use their existing account rather than setting up a new one, and can access the ConfTool directly. First-time users can refer to our Submission Guide.
+
+If anyone has forgotten their user name and/or password please contact dh2009@digitalhumanities.org.
+
+IV. Information about the conference venue: MITH, University of Maryland
+Celebrating its 10th anniversary as a working digital humanities center, MITH is the University of Maryland’s primary intellectual hub for scholars and practitioners of digital humanities, electronic literature, and cyberculture, as well as the headquarters of the Electronic Literature Organization. Having fostered numerous early adopter projects in the field, MITH continues to innovate with new work on tools, text analysis, electronic editing, virtual worlds, digital preservation, and cyberinfrastructure. Please see our pages on travel, accomodations and tourist attractions in and around College Park, MD for more information.
+
+V. Bursaries for Young Scholars
+A limited number of bursaries for young scholars will be made available to those presenting at the conference by the Association of Digital Humanities Organisations. (AHDO) If you wish to apply for a bursary please submit a proposal and indicate your interest in the scheme by emailing dh2009@digitalhumanities.org. More information for applicants will be available from the ADHO website (http://www.digitalhumanities.org/) after November 1st 2008.
+
+VI. International Programme Committee
+
+    Brett Barney (ACH)
+    Willard McCarty (ACH)
+    Michael Eberle-Sinatra (SDH-SEMI)
+    John Nerbonne (ALLC: Vice Chair)
+    Jan Rybicki (ALLC)
+    Paul Spence (ALLC)
+    Allen Renear (ACH)
+    Stéfan Sinclair (SDH-SEMI)
+    Claire Warwick (ACH: Chair)
+

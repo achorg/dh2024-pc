@@ -1,0 +1,112 @@
+Digital Humanities 2022: “Responding to Asian Diversity”
+
+
+The Alliance of Digital Humanities Organizations (ADHO) invites submission of proposals for its annual conference, July 25-29, 2022 at Toshi Center Hotel, in Tokyo, Japan.
+
+
+Theme
+
+Asia has a long history of digital humanistic research, reaching back to the 1950s. Over the past several years, the ADHO DH conferences have seen a steady increase in participation and presentations by scholars from India, Central Asia, Southeast Asia, Taiwan, China, Korea, and Japan. There is a closeness among Asian neighbors not only geographically, but also in terms of shared history, cultural values, and linguistic connections. With this background in mind, DH2022 provides an opportunity to showcase not only DH in Japan, but to also provide a window into the breadth of DH research and teaching throughout the Asian region. At the same time, DH2022 offers the chance for Western scholars to visit the wonderful city of Tokyo, and forge long-lasting relationships with Asian colleagues. The organizers hope to provide a place to meet face-to-face for global communication and collaboration among DH colleagues. Nevertheless, the ongoing worldwide crisis due to the COVID pandemic creates challenges for many scholars to participate in-person in the conference. Therefore, the organizers for DH2022 will support an equitable “hybrid” style of conference, with both in-person and virtual forms of presentation and interaction that ensures the high quality of ADHO’s international conference whilst ensuring safety.*
+
+
+CFP: English, French, Spanish, German, Italian
+
+Submit a Proposal: https://www.conftool.pro/dh2022/
+
+Deadline for Submissions: November 30 December 10, 2021, 11:59 PM Hawaii Standard Time (GMT-10)
+
+Notification of Acceptances: February 15, 2022
+
+
+Scheduled Conference Dates
+
+Pre-Conference Workshops: July 25-26, 2022
+
+Conference: July 27-29, 2022
+
+
+The theme of the 2022 conference is “Responding to Asian Diversity.” We particularly invite proposals that relate to the pan-Asian theme, but encourage submissions from all who work in all digital humanities disciplines, methodologies, and pedagogies. With respect for the significant number of languages in which DH is conducted in Asia, the organizers have determined that the conference will be conducted in English so as to include the work of as many scholars as possible.
+
+
+Submission types:
+
+    Electronic Posters - presented online only (abstract 500-750 words) 
+
+        Poster proposals may present work on any relevant topic, or offer project tool, and software demonstrations in any stage of development. Poster presentations are intended to be interactive with the opportunity to exchange ideas among  attendees.  Posters are in no way considered lesser forms of presentation at the DH conference, are subject to the same strict peer review as other presentation types, and submissions in this category are strongly encouraged.
+
+    Long presentations (20 minutes; abstract 750-1000 words)
+
+        Proposals for long presentations should deal with substantial or completed research; report the development of significant new methodologies or digital resources; and present rigorous theoretical, speculative, or critical discussions. Individual papers will be allocated 20 minutes for presentation and 10 minutes for questions.
+
+        Proposals relating to the development of new computing methodologies or digital resources should indicate how the methods are applied to research and/or teaching in the humanities and what their impact has been in formulating and addressing research questions. They should also include critical assessments of their application in the humanities as well as of the computing methodologies used.
+
+    Short presentations (10 minutes; abstract 500-750 words)
+
+        Short presentation proposals are intended to be dynamic 10 minute presentations appropriate for reporting on experiments or works in progress or for describing tools or software in development. Short paper sessions seek to open dialogues among scholars working on related topics.  Short papers are in no way considered lesser forms of presentation at the DH conference, are subject to the same strict peer review as other presentation types, and submissions in this category are strongly encouraged.
+
+    Panels (90 minutes; abstract 300-500 words for overview + 250 words for each paper) 
+
+        Panels should focus on a single theme and be conceived as 90-minute sessions of four to six speakers.Since the conference offers an important occasion to attract new scholars from diverse backgrounds to specific research areas, those submitting proposals for panels are advised to ensure that the constitution of the panel reflects the constitution of the field and/or research topic that is being addressed and ADHO’s expressed commitment to diversity, or explicitly address problems in those areas. In case the proposer’s own network is too limited, the Program Committee can advise them on whom to contact to broaden the panel.
+
+        Pre-conference workshops and tutorials (2 hours or 4 hours; 250-word overview plus detailed syllabus (with timeline) and/or relevant existing tutorials)
+
+
+    *Workshops/Tutorials are normally half-day intensive introductions to specific techniques, software packages or theoretical approaches with a small number of participants. Workshop proposals may take many forms, including proposals with a full slate of speakers and presentations, as well as proposals to issue an independent call for papers from which submissions will be chosen. Participants in pre-conference workshops and tutorials will be expected to register for the full conference as well as pay a small additional fee.　Proposals should provide the following information:
+
+            Title and brief description of the content or topic and its relevance to the digital humanities community (not more than 1500 words);
+
+            Full contact information for all tutorial instructors or workshop leaders, including a one-paragraph statement summarizing their research interests and areas of expertise;
+
+            Description of target audience and expected number of participants (based, if possible, on past experience); and
+
+            Special requirements for technical support.
+
+Additionally, tutorial proposals should include:
+
+    A brief outline showing that the core content can be covered in a half-day (approximately 3 hours, plus breaks). In exceptional cases, full-day tutorials may be supported.
+
+And workshop proposals must include:
+
+    Intended length and format of the workshop (minimum half-day; maximum one-and-a-half days);
+
+    Proposed budget (as workshops are expected to be self-financing); and
+
+    If the workshop is to have its own call for participation, a deadline and date for notification of acceptances, and a list of individuals who have agreed to be part of the workshop’s Program Committee.
+
+As with Multi Paper Panel proposals, those submitting proposals for pre-conference workshops and tutorials are advised to ensure that the constitution of the workshop reflects the constitution of the field and/or research topic that is being addressed and ADHO’s expressed commitment to diversity, or explicitly address problems in those areas.
+
+
+All proposals should include relevant citations to sources in the appropriate literatures. Citations are not included in the word count. Proposals should be submitted in English. At the time of submission, the author(s) should indicate whether they anticipate participating in the conference in person or remotely. This indication will help the organizers to properly plan for the conference, as space at the venue in Tokyo is limited to 400 persons.
+
+
+ADHO’s Special Interest Groups (SIGs) will be holding topical pre-conference meetings that will undergo separate review via SIG organizers. Please contact SIG organizers before submitting a workshop or tutorial proposal on a duplicative SIG topic
+
+
+DH2022 will use the single-blind peer review process. Reviews will remain confidential to the submitter, reviewers, and the members of the Program Committee.
+
+
+Submissions will be evaluated based on:
+
+    Overall organization and clarity of proposed submission (25%) 
+
+    Explicit engagement with relevant scholarship, with references and justifications displaying knowledge of the current state of appropriate fields (30%)
+
+    Clear theoretical, methodological, or pedagogical framework and explicit statement of purpose (25%)
+
+    Applicability, significance, and value of the theoretical, methodological, and/or practical contribution to the digital humanities generally (20%)
+
+
+The Alliance of Digital Humanities Organizations (ADHO) is dedicated to creating a safe, respectful, and collegial conference environment for the benefit of everyone who attends, and for the advancement of research and scholarship in fields supported by our constituent organizations. The full ADHO Digital Humanities Conference Code of Conduct is available at https://adho.org/administration/conference-coordinating-program-committee/adho-conference-code-conduct.
+
+Authors and reviewers will be asked to follow the ADHO guidelines: https://adho.org/administration/conference-coordinating-program-committee/guidelines-proposal-authors-and-reviewers 
+
+
+BURSARIES FOR EARLY-CAREER AND EMERGING SCHOLARS
+
+The Alliance of Digital Humanities Organizations will offer a limited number of bursaries for early-career scholars presenting at the conference. Application guidelines will appear on the ADHO website early in 2022: https://www.adho.org. Bursaries are only awarded in-person presentations.
+
+
+Questions related to this CFP should be directed to the DH2022 Program Chairs, Ikki Ohmukai and Taizo Yamada at dh2022-pc-chair at l.u-tokyo.ac.jp.
+
+
+* Please note that with the ongoing nature of the pandemic crisis, the organizers might need to move the entire conference online. It is anticipated that this decision will be made by the end of 2021, and all submitting authors will be informed as soon as possible.
